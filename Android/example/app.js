@@ -14,6 +14,6 @@ win.add(button);
 
 button.addEventListener('click',function(d){
 	torch.toggle();
-})	
+});
 	
 win.open();
